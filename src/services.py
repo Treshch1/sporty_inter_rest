@@ -9,7 +9,6 @@ from src.response import AssertableResponse
 
 class ApiClient:
     def __init__(self):
-        # self._base = ApiServiceBase()
         self.facts = FactsApiService()
 
 
