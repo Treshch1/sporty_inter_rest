@@ -1,0 +1,8 @@
+pytest
+requests
+faker
+ipdb
+python-environ
+allure-pytest
+jsonpath-rw
+pyhamcrest
